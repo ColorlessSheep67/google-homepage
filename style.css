@@ -1,0 +1,66 @@
+body {
+    background-color: white;
+  }
+
+  header{
+    text-align: right;
+    margin-top: 15px;
+    margin-right: 30px;
+    font-size: 13px;
+  }
+  header a{
+    padding: 10px;
+    color: black;
+  }
+
+  header button{
+    background-color: #3B8EDD;
+    border: none;
+    color: white;
+    width: 110px;
+    height: 32px;
+    font-size: 15px;
+  }
+  .centro{
+    text-align: center;
+    margin-top: 150px;
+  }
+  .centro input{
+    margin-top: 40px;
+    width: 550px;
+    height: 40px;
+    border-radius: 40px;
+  }
+  .centro button{
+    border: none;
+    width: 170px;
+    height: 35px;
+    margin-top: 20px;
+  }
+
+  .centro div{
+    margin-top: 20px;
+    font-size: 14px;
+  }
+
+  footer{
+    color: #9E9E9E;
+    margin-top: 370px;
+    background-color: #EAEAEA;
+  }
+
+  footer div{
+    border-style: ridge;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  footer div a{
+    margin-left: 20px;
+    color: #9E9E9E;
+  }
+
+  .derecha{
+    float: right;
+    margin-right: 20px;
+  }
